@@ -21,9 +21,12 @@ Include the neural network model diagram.
 Write your own steps
 
 ## PROGRAM
-
-Include your code here
-
+```
+#include <stdio>
+int main() {
+printf();
+}
+```
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
